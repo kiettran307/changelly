@@ -1,0 +1,5 @@
+NODE_ENV = ''
+PORT= 
+SECRET = ""
+EXPIRED_IN = ""
+MONGO_DB_URL= ""
