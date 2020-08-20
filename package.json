@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "@babel/runtime": "^7.8.4",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "changelly-js": "^2.0.2",
     "dotenv": "^7.0.0",
     "fs-extra": "^8.0.1",
